@@ -9,6 +9,9 @@ var notificationAuthorization = {
   },
   getDate: function(cb) {
     exec(cb, null, PLUGIN_NAME, 'getDate', []);
+  },
+  requestNotificationAuthorization: function(cb) {
+    exec(cb, null, PLUGIN_NAME, 'requestNotificationAuthorization', []);
   }
 };
 
