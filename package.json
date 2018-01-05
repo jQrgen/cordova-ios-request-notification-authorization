@@ -13,5 +13,9 @@
     "platforms": [
       "ios"
     ]
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/jQrgen/cordova-ios-request-notification-authorization/issues"
+  },
+  "homepage": "https://github.com/jQrgen/cordova-ios-request-notification-authorization#readme"
 }
