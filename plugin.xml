@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-    id="my-cordova-plugin"
+    id="cordova-ios-request-notification-authorization"
     version="1.0.0">
     <name>Cordova ios request notification authorization</name>
     <description></description>
