@@ -7,8 +7,8 @@
     <description></description>
     <license>WTFPL</license>
     <keywords>best plugin ever</keywords>
-    <repo>https://github.com/driftyco/cordova-plugin-template.git</repo>
-    <issue>https://github.com/driftyco/cordova-plugin-template/issues</issue>
+    <repo>https://github.com/jQrgen/cordova-ios-request-notification-authorization</repo>
+    <issue>https://github.com/jQrgen/cordova-ios-request-notification-authorization/issuess</issue>
 
     <!-- ios -->
     <platform name="ios">
