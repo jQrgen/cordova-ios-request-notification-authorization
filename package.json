@@ -1,6 +1,10 @@
 {
   "name": "cordova-ios-request-notification-authorization",
   "version": "1.0.0",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/jQrgen/cordova-ios-request-notification-authorization"
+  },
   "cordova": {
     "id": "cordova-ios-request-notification-authorization",
     "platforms": [
