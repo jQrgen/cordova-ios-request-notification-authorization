@@ -2,9 +2,12 @@
   "name": "cordova-ios-request-notification-authorization",
   "version": "1.0.1",
   "repository" :
-  { "type" : "git"
-  , "url" : "https://github.com/jQrgen/cordova-ios-request-notification-authorization"
+  {
+    "type" : "git",
+    "url" : "https://github.com/jQrgen/cordova-ios-request-notification-authorization.git"
   },
+  "author": "Jørgen Svennevik Notland <jorgen.notland@protonmail.com> (https://github.com/jQrgen)",
+  "license": "WTFPL",
   "cordova": {
     "id": "cordova-ios-request-notification-authorization",
     "platforms": [
