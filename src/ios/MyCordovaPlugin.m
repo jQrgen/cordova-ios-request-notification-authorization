@@ -1,15 +1,15 @@
-#import "MyCordovaPlugin.h"
+#import "notificationAuthorization.h"
 
 #import <Cordova/CDVAvailability.h>
 
-@implementation MyCordovaPlugin
+@implementation notificationAuthorization
 
 - (void)pluginInitialize {
 }
 
 - (void)echo:(CDVInvokedUrlCommand *)command {
   NSString* phrase = [command.arguments objectAtIndex:0];
-  NSLog(@"%@", phrase);
+  NSLog(@"fy faen fy fy faen%@", phrase);
 }
 
 - (void)getDate:(CDVInvokedUrlCommand *)command {

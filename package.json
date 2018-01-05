@@ -1,12 +1,10 @@
 {
-  "name": "cordova-plugin-template",
+  "name": "cordova-ios-request-notification-authorization",
   "version": "1.0.0",
   "cordova": {
-    "id": "cordova-plugin-template",
+    "id": "cordova-ios-request-notification-authorization",
     "platforms": [
-      "android",
-      "ios",
+      "ios"
     ]
-  },
-  "description": "A starting point for a Cordova Plugin"
+  }
 }
