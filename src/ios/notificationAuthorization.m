@@ -1,6 +1,7 @@
 #import "notificationAuthorization.h"
 
 #import <Cordova/CDVAvailability.h>
+#import <PushKit/PushKit.h>
 #import <UserNotifications/UserNotifications.h>
 
 @implementation notificationAuthorization
